@@ -1,9 +1,0 @@
-a.out
-*.out
-*.o
-*.swp
-*.swo
-*.swn
-*.bak
-.DS_Store
-.bak
